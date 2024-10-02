@@ -1,0 +1,86 @@
+ENVIE UN ERROR AQUI MISMO 1727824539337 127.0.0.1:63618 calculator 
+ENVIE UN ERROR AQUI MISMO 1727824660954 127.0.0.1:63639 calculator 
+ENVIE UN ERROR AQUI MISMO 1727824725059 127.0.0.1:63643 calculator 
+ENVIE UN ERROR AQUI MISMO 1727824817161 127.0.0.1:63676 calculator 
+ENVIE UN ERROR AQUI MISMO 1727824840593 127.0.0.1:63679 calculator 
+ENVIE UN ERROR AQUI MISMO 1727825121561 127.0.0.1:63722 calculator 
+FUCNIONO BIEN 1727825337656 127.0.0.1:63760 calculator 
+FUCNIONO BIEN 1727825346977 127.0.0.1:63763 calculator 
+FUCNIONO BIEN 1727825401969 127.0.0.1:57673 calculator 
+FUCNIONO BIEN 1727825404386 127.0.0.1:57675 calculator 
+FUCNIONO BIEN 1727825415948 127.0.0.1:57678 calculator 
+FUCNIONO BIEN 1727825456451 127.0.0.1:57685 calculator 
+FUCNIONO BIEN 1727825472446 127.0.0.1:57694 calculator 
+FUCNIONO BIEN 1727826839215 127.0.0.1:55833 calculator 
+FUCNIONO BIEN 1727827224248 127.0.0.1:58442 calculator 
+esta es una informacion cualquiera 1727829864441 127.0.0.1:56451 calculator 
+esta es una informacion cualquiera 1727829867450 127.0.0.1:56451 calculator 
+esta NO ES UNA INFO CUALQUIERAa 1727830473686 127.0.0.1:56574 calculator 
+esta NO ES UNA INFO CUALQUIERAa 1727830476695 127.0.0.1:56574 calculator 
+esta NO ES UNA INFO CUALQUIERAa 1727830586333 127.0.0.1:56595 calculator 
+esta NO ES UNA INFO CUALQUIERAa 1727830589340 127.0.0.1:56595 calculator 
+esta NO ES UNA INFO CUALQUIERAa 1727830611685 127.0.0.1:56603 calculator 
+esta NO ES UNA INFO CUALQUIERAa 1727830614700 127.0.0.1:56603 calculator 
+esta NO ES UNA INFO CUALQUIERAa 1727830724360 127.0.0.1:56640 calculator 
+esta NO ES UNA INFO CUALQUIERAa 1727830727368 127.0.0.1:56640 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T00:59:49.963Z 127.0.0.1:53236 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T00:59:52.964Z 127.0.0.1:53236 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T01:00:50.919Z 127.0.0.1:53247 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T01:00:53.932Z 127.0.0.1:53247 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:44:06.602Z 127.0.0.1:58130 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:44:09.604Z 127.0.0.1:58130 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:44:54.397Z 127.0.0.1:52552 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:44:57.405Z 127.0.0.1:52552 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:45:16.166Z 127.0.0.1:52572 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:45:19.179Z 127.0.0.1:52572 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:45:45.968Z 127.0.0.1:52582 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:45:48.981Z 127.0.0.1:52582 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:47:04.866Z 127.0.0.1:52589 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:47:36.306Z 127.0.0.1:52608 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:47:54.030Z 127.0.0.1:52612 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:49:22.984Z 127.0.0.1:52627 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:49:28.679Z 127.0.0.1:52631 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:49:47.048Z 127.0.0.1:52635 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:51:43.902Z 127.0.0.1:52654 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:51:49.926Z 127.0.0.1:52656 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:52:15.664Z 127.0.0.1:52667 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:52:22.668Z 127.0.0.1:52669 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:52:46.398Z 127.0.0.1:52674 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:52:53.723Z 127.0.0.1:52676 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:55:01.657Z 127.0.0.1:52703 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:55:06.062Z 127.0.0.1:52710 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:55:58.094Z 127.0.0.1:52719 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T03:56:05.029Z 127.0.0.1:52721 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T04:18:13.659Z 127.0.0.1:50068 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T04:18:20.905Z 127.0.0.1:50076 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T04:27:16.848Z 127.0.0.1:52797 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T04:27:19.414Z 127.0.0.1:52799 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T04:28:04.072Z 127.0.0.1:52805 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T04:30:12.890Z 127.0.0.1:55141 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T04:30:18.275Z 127.0.0.1:55143 calculator 
+esta NO ES UNA INFO CUALQUIERAa 2024-10-02T04:30:25.460Z 127.0.0.1:55145 calculator 
+Calculation successful: 32 2024-10-02T05:53:25.084Z 127.0.0.1:65134 calculator 
+Calculation successful: 0 2024-10-02T05:53:34.250Z 127.0.0.1:65134 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T05:53:43.066Z 127.0.0.1:65134 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T05:53:43.269Z 127.0.0.1:65134 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Invalid regular expression: missing / 2024-10-02T05:53:47.986Z 127.0.0.1:65134 calculator 
+Calculation successful: 2988 2024-10-02T05:57:00.610Z 127.0.0.1:65285 calculator 
+Calculation successful: 29883 2024-10-02T05:57:06.902Z 127.0.0.1:65285 calculator 
+Calculation successful: 92 2024-10-02T05:59:16.140Z 127.0.0.1:65285 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected end of input 2024-10-02T05:59:25.244Z 127.0.0.1:65285 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T05:59:35.208Z 127.0.0.1:65285 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T05:59:35.378Z 127.0.0.1:65285 calculator 
+Calculation successful: 0.3333333333333333 2024-10-02T05:59:38.524Z 127.0.0.1:65285 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T05:59:43.822Z 127.0.0.1:65285 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T05:59:45.235Z 127.0.0.1:65285 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T05:59:48.657Z 127.0.0.1:65285 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected end of input 2024-10-02T05:59:49.412Z 127.0.0.1:65285 calculator 
+Calculation successful: 0.3076923076923077 2024-10-02T05:59:56.002Z 127.0.0.1:65285 calculator 
+Calculation successful: 20 2024-10-02T05:59:59.372Z 127.0.0.1:65285 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T06:00:02.128Z 127.0.0.1:65285 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T06:00:05.230Z 127.0.0.1:65285 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T06:00:09.232Z 127.0.0.1:65285 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Octal literals are not allowed in strict mode. 2024-10-02T06:00:10.240Z 127.0.0.1:65285 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected token '*' 2024-10-02T06:01:15.634Z 127.0.0.1:49194 calculator 
+Calculation successful: 576 2024-10-02T06:01:31.336Z 127.0.0.1:49194 calculator 
+División por cero o resultado no numérico 2024-10-02T06:01:38.218Z 127.0.0.1:49194 calculator 

@@ -1,0 +1,9 @@
+{
+    "insertLog": "INSERT INTO log(log_tp, log_da, log_dt, log_ho, log_mo) VALUES ($1, $2, $3, $4 ,$5)",
+    "selectByWarning": "SELECT * FROM log WHERE log_tp = 'warning'",
+    "selectByError": "SELECT * FROM log WHERE log_tp = 'error'",
+    "selectByInfo": "SELECT * FROM log WHERE log_tp = 'info'",
+    "selectByDebug": "SELECT * FROM log WHERE log_tp = 'debug'",
+    "selectByDate": "SELECT * FROM log WHERE log_dt = $1"
+
+}
