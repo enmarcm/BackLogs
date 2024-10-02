@@ -1,7 +1,9 @@
 import "dotenv/config";
 import { HostConfig } from "./types";
 
-export const PORT = Number(process.env.PORT) || 3000;
+export const PORT = Number(process.env.PORT_API) || 3030;
+
+export const WS_PORT = Number(process.env.PORT_WEB_SOCKET) || 8080
 
 export const Hosts: Record<string, HostConfig> = {
   gmail: {

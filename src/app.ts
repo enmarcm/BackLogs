@@ -1,4 +1,4 @@
-import { CONFIG_LOGS } from "./constants";
+import { CONFIG_LOGS, WS_PORT } from "./constants";
 import LoggerServer from "./utils/LoggerServer";
 import TcpProxyServer from "./utils/TcpProxyServer";
 import express from "express";
@@ -21,7 +21,7 @@ app.use(midValidJson);
 app.use(midCors());
 app.use(midNotJson);
 
-app.use("/", MainRouter)
+app.use("/", MainRouter);
 
 app.use(midNotFound);
 
@@ -36,5 +36,5 @@ new LoggerServer({
 new TcpProxyServer({
   TCP_SERVER_HOST: CONFIG_LOGS.HOST,
   TCP_SERVER_PORT: CONFIG_LOGS.PORT,
-  WEBSOCKET_PORT: 8080,
+  WEBSOCKET_PORT: WS_PORT,
 });
