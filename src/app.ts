@@ -25,16 +25,18 @@ app.use("/", MainRouter);
 
 app.use(midNotFound);
 
-startServer({ app, PORT });
-
 new LoggerServer({
   host: CONFIG_LOGS.HOST,
-  port: CONFIG_LOGS.PORT,
+  portUDP: CONFIG_LOGS.UDP_PORT,
+  portTCP: CONFIG_LOGS.TCP_PORT,
   pathFile: CONFIG_LOGS.PATH,
 }).listen();
 
 new TcpProxyServer({
   TCP_SERVER_HOST: CONFIG_LOGS.HOST,
-  TCP_SERVER_PORT: CONFIG_LOGS.PORT,
+  TCP_SERVER_PORT: CONFIG_LOGS.TCP_PORT,
   WEBSOCKET_PORT: WS_PORT,
+  UDP_SERVER_PORT: CONFIG_LOGS.UDP_PORT,
 });
+
+startServer({ app, PORT });

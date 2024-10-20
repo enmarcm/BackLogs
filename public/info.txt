@@ -84,3 +84,1261 @@ Invalid operation: Error, operación invalida, error: SyntaxError: Octal literal
 No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected token '*' 2024-10-02T06:01:15.634Z 127.0.0.1:49194 calculator 
 Calculation successful: 576 2024-10-02T06:01:31.336Z 127.0.0.1:49194 calculator 
 División por cero o resultado no numérico 2024-10-02T06:01:38.218Z 127.0.0.1:49194 calculator 
+Calculation successful: 75 2024-10-02T15:02:37.746Z 127.0.0.1:52417 calculator 
+Calculation successful: 25 2024-10-02T15:02:40.379Z 127.0.0.1:52417 calculator 
+División por cero o resultado no numérico 2024-10-02T15:02:42.153Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:02:43.588Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:02:46.073Z 127.0.0.1:52417 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Invalid regular expression: missing / 2024-10-02T15:02:47.142Z 127.0.0.1:52417 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected token '*' 2024-10-02T15:02:51.303Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:03:04.844Z 127.0.0.1:52417 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected number 2024-10-02T15:03:06.483Z 127.0.0.1:52417 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected number 2024-10-02T15:03:16.820Z 127.0.0.1:52417 calculator 
+Calculation successful: 15 2024-10-02T15:03:49.605Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:03:58.442Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:03:58.599Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:03:58.730Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:03:58.862Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:03:59.004Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:03:59.158Z 127.0.0.1:52417 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Invalid regular expression: missing / 2024-10-02T15:04:12.712Z 127.0.0.1:52417 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected token '*' 2024-10-02T15:04:14.899Z 127.0.0.1:52417 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected token '*' 2024-10-02T15:04:22.291Z 127.0.0.1:52417 calculator 
+Calculation successful: 30 2024-10-02T15:06:36.968Z 127.0.0.1:52417 calculator 
+Calculation successful: 3020 2024-10-02T15:06:54.760Z 127.0.0.1:52417 calculator 
+Calculation successful: 3009.7 2024-10-02T15:07:02.153Z 127.0.0.1:52417 calculator 
+Calculation successful: 90291.59999999999 2024-10-02T15:07:36.531Z 127.0.0.1:52417 calculator 
+Calculation successful: 2.2222222222219997e+69 2024-10-02T15:08:01.040Z 127.0.0.1:52417 calculator 
+Calculation successful: 0 2024-10-02T15:08:17.156Z 127.0.0.1:52417 calculator 
+División por cero o resultado no numérico 2024-10-02T15:08:24.046Z 127.0.0.1:52417 calculator 
+Calculation successful: 18 2024-10-02T15:09:47.092Z 127.0.0.1:52417 calculator 
+Calculation successful: 6 2024-10-02T15:09:54.258Z 127.0.0.1:52417 calculator 
+Calculation successful: 6 2024-10-02T15:09:54.436Z 127.0.0.1:52417 calculator 
+Calculation successful: 20.333333333333332 2024-10-02T15:10:25.804Z 127.0.0.1:52417 calculator 
+Calculation successful: 83 2024-10-02T15:11:41.371Z 127.0.0.1:52417 calculator 
+Calculation successful: 498 2024-10-02T15:12:01.321Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:12:10.086Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:12:10.387Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:12:10.604Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:12:10.773Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:12:21.028Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:12:25.184Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:12:27.612Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:12:27.936Z 127.0.0.1:52417 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-02T15:12:28.103Z 127.0.0.1:52417 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected number 2024-10-02T15:12:29.318Z 127.0.0.1:52417 calculator 
+Calculation successful: 53.33333333333333 2024-10-02T15:12:55.107Z 127.0.0.1:52417 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected end of input 2024-10-02T15:12:58.376Z 127.0.0.1:52417 calculator 
+Calculation successful: 462 2024-10-07T14:41:24.380Z 127.0.0.1:55018 calculator 
+Calculation successful: 30.728125 2024-10-07T14:41:34.138Z 127.0.0.1:55018 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-07T14:41:35.574Z 127.0.0.1:55018 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-07T14:41:35.745Z 127.0.0.1:55018 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-07T14:41:35.894Z 127.0.0.1:55018 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected end of input 2024-10-07T14:41:36.685Z 127.0.0.1:55018 calculator 
+Calculation successful: 29 2024-10-07T14:42:21.261Z 127.0.0.1:55018 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-07T14:42:42.812Z 127.0.0.1:55018 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-07T14:42:43.269Z 127.0.0.1:55018 calculator 
+División por cero o resultado no numérico 2024-10-07T14:42:46.543Z 127.0.0.1:55018 calculator 
+División por cero o resultado no numérico 2024-10-07T14:42:50.502Z 127.0.0.1:55018 calculator 
+Calculation successful: -1 2024-10-07T14:48:22.640Z 127.0.0.1:55018 calculator 
+Calculation successful: -27 2024-10-07T14:48:25.721Z 127.0.0.1:55018 calculator 
+División por cero o resultado no numérico 2024-10-07T14:48:29.918Z 127.0.0.1:55018 calculator 
+Calculation successful: 576 2024-10-07T14:48:43.546Z 127.0.0.1:55018 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-07T14:48:45.587Z 127.0.0.1:55018 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-07T14:48:46.786Z 127.0.0.1:55018 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-07T14:48:46.927Z 127.0.0.1:55018 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-07T14:48:47.084Z 127.0.0.1:55018 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-07T14:48:47.249Z 127.0.0.1:55018 calculator 
+División por cero o resultado no numérico 2024-10-07T14:48:48.253Z 127.0.0.1:55018 calculator 
+División por cero o resultado no numérico 2024-10-07T14:49:17.723Z 127.0.0.1:59579 calculator 
+División por cero o resultado no numérico 2024-10-07T14:49:24.239Z 127.0.0.1:59579 calculator 
+[object Object] 2024-10-07T15:02:18.504Z 127.0.0.1:50546 client-test 
+[object Object] 2024-10-07T15:02:36.056Z 127.0.0.1:50693 client-test 
+{"message":"prueba test"} 2024-10-07T15:02:59.488Z 127.0.0.1:50933 client-test 
+{"message":"prueba test"} 2024-10-07T15:17:26.259Z 127.0.0.1:58682 client-test 
+{"message":"prueba test"} 2024-10-07T15:17:49.860Z 127.0.0.1:58891 client-test 
+División por cero o resultado no numérico 2024-10-07T15:23:38.355Z 127.0.0.1:62147 calculator 
+Calculation successful: 3 2024-10-07T15:23:49.807Z 127.0.0.1:62147 calculator 
+División por cero o resultado no numérico 2024-10-07T15:23:54.809Z 127.0.0.1:62147 calculator 
+División por cero o resultado no numérico 2024-10-07T15:23:59.304Z 127.0.0.1:62147 calculator 
+División por cero o resultado no numérico 2024-10-07T15:24:35.464Z 127.0.0.1:62147 calculator 
+Calculation successful: 9 2024-10-07T15:24:53.669Z 127.0.0.1:62147 calculator 
+Calculation successful: 79 2024-10-09T00:41:06.128Z 127.0.0.1:61330 calculator 
+Calculation successful: 88 2024-10-09T00:41:08.617Z 127.0.0.1:61330 calculator 
+División por cero o resultado no numérico 2024-10-09T00:41:10.112Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:41:12.409Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:41:12.576Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:41:14.048Z 127.0.0.1:61330 calculator 
+Calculation successful: 9.9 2024-10-09T00:41:15.721Z 127.0.0.1:61330 calculator 
+Calculation successful: 3.31 2024-10-09T00:41:17.176Z 127.0.0.1:61330 calculator 
+Calculation successful: 19.86 2024-10-09T00:41:18.960Z 127.0.0.1:61330 calculator 
+División por cero o resultado no numérico 2024-10-09T00:41:21.353Z 127.0.0.1:61330 calculator 
+Calculation successful: 348 2024-10-09T00:42:02.561Z 127.0.0.1:61330 calculator 
+Calculation successful: 588 2024-10-09T00:42:18.578Z 127.0.0.1:61330 calculator 
+Calculation successful: 99 2024-10-09T00:42:42.640Z 127.0.0.1:61330 calculator 
+Calculation successful: 99 2024-10-09T00:42:42.936Z 127.0.0.1:61330 calculator 
+Calculation successful: 99 2024-10-09T00:42:43.272Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:42:45.024Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:42:45.208Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:42:45.376Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:42:45.544Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:42:45.712Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:42:45.874Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:42:46.047Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:42:46.216Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:42:46.384Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:42:46.544Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:42:46.728Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:42:46.881Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:42:47.089Z 127.0.0.1:61330 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-09T00:43:00.672Z 127.0.0.1:61330 calculator 
+Calculation successful: 99 2024-10-09T00:43:01.904Z 127.0.0.1:61330 calculator 
+Calculation successful: 33 2024-10-09T00:43:03.000Z 127.0.0.1:61330 calculator 
+Calculation successful: 1746611925 2024-10-09T00:43:10.456Z 127.0.0.1:61330 calculator 
+Calculation successful: 582203975 2024-10-09T00:43:12.079Z 127.0.0.1:61330 calculator 
+Calculation successful: 582203975 2024-10-09T00:43:12.591Z 127.0.0.1:61330 calculator 
+Calculation successful: 582203975 2024-10-09T00:43:12.936Z 127.0.0.1:61330 calculator 
+Calculation successful: 582203975 2024-10-09T00:43:13.193Z 127.0.0.1:61330 calculator 
+Calculation successful: 582203975 2024-10-09T00:43:13.367Z 127.0.0.1:61330 calculator 
+División por cero o resultado no numérico 2024-10-09T00:43:16.016Z 127.0.0.1:61330 calculator 
+{"message":"prueba test"} 2024-10-14T15:26:44.607Z 127.0.0.1:50802 client-test 
+{"message":"prueba test"} 2024-10-14T11:28:19.231Z 127.0.0.1:50845 client-test 
+{"message":"prueba test"} 2024-10-14T11:35:48.122Z 127.0.0.1:51040 client-test 
+{"message":"prueba test"} 2024-10-14T11:36:58.474Z 127.0.0.1:51058 client-test 
+{"message":"prueba test"} 2024-10-14T11:37:12.548Z 127.0.0.1:51327 client-test 
+{"message":"prueba test"} 2024-10-14T11:40:18.806Z 127.0.0.1:50754 client-test 
+{"message":"prueba test"} 2024-10-14T11:44:38.683Z 127.0.0.1:49857 client-test 
+{"message":"prueba test"} 2024-10-14T11:45:14.857Z 127.0.0.1:62665 client-test 
+{"message":"prueba test"} 2024-10-14T11:45:19.127Z 127.0.0.1:53225 client-test 
+{"message":"prueba test"} 2024-10-14T11:45:42.340Z 127.0.0.1:51141 client-test 
+{"message":"prueba test"} 2024-10-14T11:45:51.225Z 127.0.0.1:51144 client-test 
+{"message":"prueba test"} 2024-10-14T11:45:57.810Z 127.0.0.1:52566 client-test 
+Calculation successful: 348 2024-10-14T11:51:56.385Z 127.0.0.1:51306 calculator 
+Calculation successful: 348 2024-10-14T11:51:56.385Z 127.0.0.1:61945 calculator 
+Calculation successful: -5 2024-10-14T11:52:11.993Z 127.0.0.1:51306 calculator 
+Calculation successful: -5 2024-10-14T11:52:11.993Z 127.0.0.1:62082 calculator 
+Calculation successful: 16 2024-10-14T11:52:26.913Z 127.0.0.1:51306 calculator 
+Calculation successful: 16 2024-10-14T11:52:26.913Z 127.0.0.1:61815 calculator 
+División por cero o resultado no numérico 2024-10-14T11:52:31.977Z 127.0.0.1:51306 calculator 
+División por cero o resultado no numérico 2024-10-14T11:52:31.977Z 127.0.0.1:58174 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T11:52:31.977Z 127.0.0.1:58175 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T11:52:31.978Z 127.0.0.1:58176 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T11:52:47.953Z 127.0.0.1:51306 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T11:52:47.953Z 127.0.0.1:49281 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T11:52:48.209Z 127.0.0.1:49282 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T11:52:48.209Z 127.0.0.1:51306 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T11:52:54.257Z 127.0.0.1:51306 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T11:52:54.257Z 127.0.0.1:65018 calculator 
+Calculation successful: 0 2024-10-14T11:52:56.145Z 127.0.0.1:51306 calculator 
+Calculation successful: 0 2024-10-14T11:52:56.145Z 127.0.0.1:65019 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Octal literals are not allowed in strict mode. 2024-10-14T11:53:00.385Z 127.0.0.1:51306 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Octal literals are not allowed in strict mode. 2024-10-14T11:53:00.385Z 127.0.0.1:63706 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Octal literals are not allowed in strict mode. 2024-10-14T11:53:00.386Z 127.0.0.1:63707 calculator 
+Calculation successful: 1 2024-10-14T11:53:11.937Z 127.0.0.1:51306 calculator 
+Calculation successful: 1 2024-10-14T11:53:11.937Z 127.0.0.1:57116 calculator 
+División por cero o resultado no numérico 2024-10-14T11:53:15.329Z 127.0.0.1:51306 calculator 
+División por cero o resultado no numérico 2024-10-14T11:53:15.329Z 127.0.0.1:64422 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T11:53:15.329Z 127.0.0.1:64423 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T11:53:15.330Z 127.0.0.1:64424 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T11:53:21.209Z 127.0.0.1:51306 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T11:53:21.209Z 127.0.0.1:61570 calculator 
+{"message":"prueba test"} 2024-10-14T11:58:40.058Z 127.0.0.1:55524 client-test 
+{"message":"prueba test"} 2024-10-14T11:59:00.462Z 127.0.0.1:51786 client-test 
+{"message":"prueba test"} 2024-10-14T11:59:39.884Z 127.0.0.1:55271 client-test 
+{"message":"prueba test"} 2024-10-14T11:59:43.200Z 127.0.0.1:55546 client-test 
+{"message":"prueba test"} 2024-10-14T11:59:46.308Z 127.0.0.1:56514 client-test 
+{"message":"prueba test"} 2024-10-14T12:00:09.744Z 127.0.0.1:51865 client-test 
+{"message":"prueba test"} 2024-10-14T12:02:18.789Z 127.0.0.1:51967 client-test 
+{"message":"prueba test"} 2024-10-14T12:02:25.489Z 127.0.0.1:51971 client-test 
+{"message":"prueba test"} 2024-10-14T12:04:52.871Z 127.0.0.1:52096 client-test 
+{"message":"prueba test"} 2024-10-14T12:05:01.031Z 127.0.0.1:52102 client-test 
+{"message":"prueba test"} 2024-10-14T12:05:18.561Z 127.0.0.1:52119 client-test 
+{"message":"prueba test"} 2024-10-14T12:06:25.690Z 127.0.0.1:52181 client-test 
+{"message":"prueba test"} 2024-10-14T12:09:23.767Z 127.0.0.1:52311 client-test 
+{"message":"prueba test"} 2024-10-14T12:10:42.998Z 127.0.0.1:52372 client-test 
+{"message":"prueba test"} 2024-10-14T12:10:45.228Z 127.0.0.1:52374 client-test 
+{"message":"prueba test"} 2024-10-14T12:11:59.982Z 127.0.0.1:52436 client-test 
+{"message":"prueba test"} 2024-10-14T12:12:03.111Z 127.0.0.1:52440 client-test 
+{"message":"prueba test"} 2024-10-14T12:13:47.680Z 127.0.0.1:52540 client-test 
+{"message":"prueba test"} 2024-10-14T12:15:52.437Z 127.0.0.1:52638 client-test 
+{"message":"prueba test"} 2024-10-14T12:17:17.213Z 127.0.0.1:52712 client-test 
+{"message":"prueba test"} 2024-10-14T12:18:27.224Z 127.0.0.1:52749 client-test 
+{"message":"prueba test"} 2024-10-14T12:18:38.968Z 127.0.0.1:52774 client-test 
+{"message":"prueba test"} 2024-10-14T12:19:37.408Z 127.0.0.1:52809 client-test 
+{"message":"prueba test"} 2024-10-14T12:19:45.055Z 127.0.0.1:52816 client-test 
+{"message":"prueba test"} 2024-10-14T12:19:58.897Z 127.0.0.1:52850 client-test 
+{"message":"prueba test"} 2024-10-14T12:20:11.792Z 127.0.0.1:52863 client-test 
+{"message":"prueba test"} 2024-10-14T12:22:38.242Z 127.0.0.1:52991 client-test 
+Calculation successful: 588 2024-10-14T12:33:48.653Z 127.0.0.1:50265 calculator 
+Calculation successful: 579 2024-10-14T12:33:56.132Z 127.0.0.1:50284 calculator 
+Calculation successful: 588 2024-10-14T12:35:35.750Z 127.0.0.1:50373 calculator 
+Calculation successful: 3528 2024-10-14T12:35:38.709Z 127.0.0.1:50376 calculator 
+Calculation successful: 3519 2024-10-14T12:35:41.093Z 127.0.0.1:50380 calculator 
+Calculation successful: 211176 2024-10-14T12:36:04.276Z 127.0.0.1:50400 calculator 
+{"message":"prueba test"} 2024-10-14T12:42:48.393Z 127.0.0.1:50776 client-test 
+División por cero o resultado no numérico 2024-10-14T12:44:26.010Z 127.0.0.1:50846 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T12:44:29.242Z 127.0.0.1:50846 calculator 
+Calculation successful: 588 2024-10-14T12:57:15.439Z 127.0.0.1:51374 calculator 
+Calculation successful: 35328 2024-10-14T12:57:23.135Z 127.0.0.1:51374 calculator 
+Calculation successful: 11776 2024-10-14T12:57:33.159Z 127.0.0.1:51374 calculator 
+Calculation successful: 588 2024-10-14T12:58:46.575Z 127.0.0.1:51446 calculator 
+División por cero o resultado no numérico 2024-10-14T12:58:51.591Z 127.0.0.1:51446 calculator 
+Calculation successful: 36 2024-10-14T12:59:47.735Z 127.0.0.1:51543 calculator 
+Calculation successful: 408 2024-10-14T13:02:03.294Z 127.0.0.1:51699 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected token '*' 2024-10-14T13:02:19.566Z 127.0.0.1:51784 calculator 
+Calculation successful: 24 2024-10-14T13:04:56.869Z 127.0.0.1:51784 calculator 
+Calculation successful: 390 2024-10-14T13:05:40.262Z 127.0.0.1:51890 calculator 
+Calculation successful: 390 2024-10-14T13:05:47.733Z 127.0.0.1:60365 calculator 
+Calculation successful: 588 2024-10-14T13:06:12.877Z 127.0.0.1:51925 calculator 
+Calculation successful: 35316 2024-10-14T13:06:16.693Z 127.0.0.1:62854 calculator 
+Calculation successful: 21190110 2024-10-14T13:07:22.340Z 127.0.0.1:62854 calculator 
+Calculation successful: 83 2024-10-14T13:07:33.316Z 127.0.0.1:51925 calculator 
+Calculation successful: 498 2024-10-14T13:07:37.556Z 127.0.0.1:51925 calculator 
+Calculation successful: 2988 2024-10-14T13:08:54.381Z 127.0.0.1:51925 calculator 
+Calculation successful: 298849 2024-10-14T13:08:58.797Z 127.0.0.1:51925 calculator 
+Calculation successful: 88 2024-10-14T13:09:09.532Z 127.0.0.1:62854 calculator 
+Calculation successful: 79 2024-10-14T13:09:14.412Z 127.0.0.1:62854 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected token '*' 2024-10-14T13:11:11.355Z 127.0.0.1:52187 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected token '*' 2024-10-14T13:11:23.427Z 127.0.0.1:64305 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected token '*' 2024-10-14T13:11:23.428Z 127.0.0.1:64305 calculator 
+Calculation successful: 49 2024-10-14T13:12:58.163Z 127.0.0.1:52276 calculator 
+Calculation successful: 69 2024-10-14T13:13:32.227Z 127.0.0.1:52325 calculator 
+Calculation successful: 414 2024-10-14T13:13:38.570Z 127.0.0.1:56216 calculator 
+Calculation successful: 138 2024-10-14T13:13:47.083Z 127.0.0.1:56216 calculator 
+Calculation successful: 83322 2024-10-14T13:15:02.907Z 127.0.0.1:56216 calculator 
+Calculation successful: 83313 2024-10-14T13:15:07.082Z 127.0.0.1:52325 calculator 
+Calculation successful: 27771 2024-10-14T13:15:46.243Z 127.0.0.1:52325 calculator 
+Calculation successful: 27771 2024-10-14T13:16:08.202Z 127.0.0.1:52325 calculator 
+Calculation successful: 166626 2024-10-14T13:17:06.314Z 127.0.0.1:52325 calculator 
+Calculation successful: 999756 2024-10-14T13:17:10.906Z 127.0.0.1:56216 calculator 
+Calculation successful: 999756 2024-10-14T13:17:11.874Z 127.0.0.1:56216 calculator 
+Calculation successful: 999756 2024-10-14T13:17:12.434Z 127.0.0.1:56216 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected token '*' 2024-10-14T13:17:46.522Z 127.0.0.1:56216 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected token '*' 2024-10-14T13:17:46.523Z 127.0.0.1:56216 calculator 
+Calculation successful: 30 2024-10-14T13:17:49.506Z 127.0.0.1:56216 calculator 
+Calculation successful: 180 2024-10-14T13:20:25.729Z 127.0.0.1:56216 calculator 
+{"message":"prueba test"} 2024-10-14T13:20:46.344Z 127.0.0.1:52739 client-test 
+{"message":"prueba test"} 2024-10-14T13:20:58.555Z 127.0.0.1:56179 client-test 
+{"message":"prueba test"} 2024-10-14T13:21:38.605Z 127.0.0.1:64290 client-test 
+{"message":"prueba test"} 2024-10-14T13:21:45.758Z 127.0.0.1:65504 client-test 
+Calculation successful: 324 2024-10-14T13:22:01.882Z 127.0.0.1:52815 calculator 
+Calculation successful: 522 2024-10-14T14:32:24.161Z 127.0.0.1:53291 calculator 
+División por cero o resultado no numérico 2024-10-14T14:32:28.576Z 127.0.0.1:57547 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T14:32:28.576Z 127.0.0.1:57547 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T14:32:28.577Z 127.0.0.1:57547 calculator 
+División por cero o resultado no numérico 2024-10-14T14:33:49.969Z 127.0.0.1:53403 calculator 
+Calculation successful: 516 2024-10-14T14:33:54.589Z 127.0.0.1:53403 calculator 
+Calculation successful: 258 2024-10-14T14:34:02.653Z 127.0.0.1:63909 calculator 
+Calculation successful: 1548 2024-10-14T14:34:05.915Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:09.501Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:17.792Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:17.990Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:18.145Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:18.285Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:18.411Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:18.544Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:18.677Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:18.822Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:18.950Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:19.085Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:19.225Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:19.366Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:19.504Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:19.652Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:19.800Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:19.925Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:20.056Z 127.0.0.1:63909 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T14:34:42.853Z 127.0.0.1:63909 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected number 2024-10-14T14:34:43.909Z 127.0.0.1:63909 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected number 2024-10-14T14:34:43.910Z 127.0.0.1:63909 calculator 
+División por cero o resultado no numérico 2024-10-14T14:39:02.916Z 127.0.0.1:63909 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T14:39:02.916Z 127.0.0.1:63909 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T14:39:02.917Z 127.0.0.1:63909 calculator 
+División por cero o resultado no numérico 2024-10-14T14:40:20.645Z 127.0.0.1:63909 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T14:40:20.645Z 127.0.0.1:63909 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T14:40:20.646Z 127.0.0.1:63909 calculator 
+División por cero o resultado no numérico 2024-10-14T14:40:44.322Z 127.0.0.1:63909 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T14:40:44.323Z 127.0.0.1:63909 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T14:40:44.323Z 127.0.0.1:63909 calculator 
+División por cero o resultado no numérico 2024-10-14T14:42:28.410Z 127.0.0.1:63909 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T14:42:28.411Z 127.0.0.1:63909 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T14:42:28.411Z 127.0.0.1:63909 calculator 
+{"message":"hola mundo como estas"} 2024-10-14T15:01:12.993Z 192.168.125.218:54086 client-test 
+{"message":"hola mundo como estas"} 2024-10-14T15:01:29.177Z 192.168.125.218:58044 client-test 
+{"message":"hola mundo como estas"} 2024-10-14T15:01:42.447Z 192.168.125.218:58046 client-test 
+{"message":"hola mundo como estas"} 2024-10-14T15:01:54.002Z 192.168.125.218:62305 client-test 
+{"message":"hola mundo como estas"} 2024-10-14T15:01:59.796Z 192.168.125.218:53356 client-test 
+{"message":"hola mundo como estas"} 2024-10-14T15:02:07.364Z 192.168.125.218:62722 client-test 
+{"message":"acenó y ñandu"} 2024-10-14T15:02:53.585Z 192.168.125.218:53399 client-test 
+Calculation successful: 70 2024-10-14T15:05:09.560Z 192.168.125.126:54848 calculator 
+Calculation successful: 44415 2024-10-14T15:06:08.142Z 192.168.125.126:54848 calculator 
+Calculation successful: 522 2024-10-14T15:06:14.183Z 192.168.125.126:54895 calculator 
+Calculation successful: 510 2024-10-14T15:06:41.976Z 192.168.125.126:54905 calculator 
+Calculation successful: 765 2024-10-14T15:06:51.985Z 192.168.125.126:54905 calculator 
+Calculation successful: 522 2024-10-14T15:07:52.416Z 192.168.125.126:54895 calculator 
+Calculation successful: 510 2024-10-14T15:09:25.021Z 192.168.125.126:54905 calculator 
+Calculation successful: 4950 2024-10-14T15:09:41.617Z 192.168.125.126:54866 calculator 
+Calculation successful: 49 2024-10-14T15:10:31.587Z 192.168.125.126:55075 calculator 
+Calculation successful: 14.833333333333334 2024-10-14T15:10:35.751Z 192.168.125.126:54905 calculator 
+Calculation successful: 294 2024-10-14T15:10:44.247Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:11:11.876Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:11:11.878Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:11:11.878Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:11:25.857Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:11:25.859Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:11:25.860Z 192.168.125.126:54866 calculator 
+Calculation successful: 2948 2024-10-14T15:11:32.275Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Octal literals are not allowed in strict mode. 2024-10-14T15:11:39.593Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Octal literals are not allowed in strict mode. 2024-10-14T15:11:39.595Z 192.168.125.126:54866 calculator 
+Calculation successful: 0 2024-10-14T15:11:46.629Z 192.168.125.126:54866 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:11:56.909Z 192.168.125.126:54866 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:11:58.211Z 192.168.125.126:54866 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:11:59.026Z 192.168.125.126:54866 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:12:05.398Z 192.168.125.126:54866 calculator 
+Calculation successful: 16647.833333333332 2024-10-14T15:12:07.778Z 192.168.125.126:54866 calculator 
+Calculation successful: 29482 2024-10-14T15:12:16.559Z 192.168.125.126:54866 calculator 
+Calculation successful: 4311752.833333333 2024-10-14T15:12:29.670Z 192.168.125.126:54866 calculator 
+Calculation successful: 14.833333333333334 2024-10-14T15:15:30.952Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:15:37.005Z 192.168.125.126:54905 calculator 
+Calculation successful: 1862.9333333333334 2024-10-14T15:15:47.315Z 192.168.125.126:54866 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:15:57.768Z 192.168.125.126:54866 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:15:59.375Z 192.168.125.126:54866 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:15:59.535Z 192.168.125.126:54866 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:15:59.685Z 192.168.125.126:54866 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:15:59.788Z 192.168.125.126:54866 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:15:59.883Z 192.168.125.126:54866 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:15:59.983Z 192.168.125.126:54866 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:16:00.315Z 192.168.125.126:54866 calculator 
+Calculation successful: 1862.9333333333334 2024-10-14T15:16:03.518Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:09.643Z 192.168.125.126:54905 calculator 
+Calculation successful: 86 2024-10-14T15:16:09.805Z 192.168.125.126:54905 calculator 
+Calculation successful: 86 2024-10-14T15:16:09.984Z 192.168.125.126:54905 calculator 
+Calculation successful: 29482 2024-10-14T15:16:09.390Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:10.161Z 192.168.125.126:54905 calculator 
+Calculation successful: 29482 2024-10-14T15:16:09.543Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:10.326Z 192.168.125.126:54905 calculator 
+Calculation successful: 29482 2024-10-14T15:16:09.691Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:10.493Z 192.168.125.126:54905 calculator 
+Calculation successful: 29482 2024-10-14T15:16:09.837Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:10.654Z 192.168.125.126:54905 calculator 
+Calculation successful: 29482 2024-10-14T15:16:09.983Z 192.168.125.126:54866 calculator 
+Calculation successful: 29482 2024-10-14T15:16:10.151Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:10.822Z 192.168.125.126:54905 calculator 
+Calculation successful: 29482 2024-10-14T15:16:10.319Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:10.995Z 192.168.125.126:54905 calculator 
+Calculation successful: 29482 2024-10-14T15:16:10.480Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:11.163Z 192.168.125.126:54905 calculator 
+Calculation successful: 29482 2024-10-14T15:16:10.626Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:11.337Z 192.168.125.126:54905 calculator 
+Calculation successful: 29482 2024-10-14T15:16:10.767Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:11.503Z 192.168.125.126:54905 calculator 
+Calculation successful: 86 2024-10-14T15:16:11.675Z 192.168.125.126:54905 calculator 
+Calculation successful: 86 2024-10-14T15:16:11.853Z 192.168.125.126:54905 calculator 
+Calculation successful: 86 2024-10-14T15:16:14.564Z 192.168.125.126:54905 calculator 
+Calculation successful: 86 2024-10-14T15:16:14.905Z 192.168.125.126:54905 calculator 
+Calculation successful: 86 2024-10-14T15:16:15.037Z 192.168.125.126:54905 calculator 
+Calculation successful: 86 2024-10-14T15:16:15.208Z 192.168.125.126:54905 calculator 
+Calculation successful: 86 2024-10-14T15:16:15.389Z 192.168.125.126:54905 calculator 
+Calculation successful: 86 2024-10-14T15:16:15.573Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:14.999Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:15.740Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:15.153Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:15.908Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:15.308Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:16.069Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:15.471Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:16.251Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:15.610Z 192.168.125.126:54866 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:15.757Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:16.431Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:15.896Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:16.607Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:16.020Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:16.801Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:16.159Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:16.960Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:16.306Z 192.168.125.126:54866 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:16.461Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:17.146Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:16.600Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:17.317Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:16.769Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:17.480Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:16.930Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:17.656Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:17.091Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:17.823Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:17.237Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:17.994Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:17.398Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:18.175Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:17.560Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:18.353Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:17.722Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:18.522Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:17.874Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:18.692Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:18.022Z 192.168.125.126:54866 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:18.167Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:18.858Z 192.168.125.126:54905 calculator 
+Calculation successful: 196530711630 2024-10-14T15:16:18.322Z 192.168.125.126:54866 calculator 
+Calculation successful: 86 2024-10-14T15:16:19.043Z 192.168.125.126:54905 calculator 
+Calculation successful: 86 2024-10-14T15:16:19.236Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:21.761Z 192.168.125.126:54905 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:21.930Z 192.168.125.126:54905 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:22.092Z 192.168.125.126:54905 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:22.264Z 192.168.125.126:54905 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:22.442Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:22.622Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:22.781Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:22.973Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:23.154Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:23.329Z 192.168.125.126:54905 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:23.476Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:22.896Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:22.896Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:22.897Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:23.628Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:23.804Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:23.982Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:24.190Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:26.508Z 192.168.125.126:54905 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:26.701Z 192.168.125.126:54905 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:26.903Z 192.168.125.126:54905 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:27.091Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:27.294Z 192.168.125.126:54905 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:27.294Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:27.504Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:27.711Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:27.906Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:28.102Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:28.311Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:28.523Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:28.739Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:28.219Z 192.168.125.126:55075 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:28.967Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:29.195Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:29.388Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:29.601Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:29.804Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:30.033Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:30.268Z 192.168.125.126:54905 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:30.269Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:30.485Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:30.664Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:30.838Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:31.005Z 192.168.125.126:54905 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:16:29.838Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:31.179Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:31.371Z 192.168.125.126:54905 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:31.372Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:31.633Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:31.876Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:32.061Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:32.269Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:32.470Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:32.674Z 192.168.125.126:54905 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:31.601Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:31.601Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:31.602Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:32.910Z 192.168.125.126:54905 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:31.775Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:31.776Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:33.102Z 192.168.125.126:54905 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:31.939Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:31.940Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:32.116Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:32.117Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:32.288Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:32.289Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:32.456Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:32.457Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:32.457Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:32.628Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:32.629Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:32.630Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:32.781Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:32.782Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:32.782Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:32.959Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:32.960Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:32.960Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:33.135Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:33.136Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:33.136Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:33.308Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:33.309Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:33.309Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:33.485Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:33.486Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:33.487Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:33.664Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:33.665Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:33.666Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:33.838Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:33.839Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:33.840Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:34.002Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:34.003Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:34.003Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:34.160Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:34.161Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:34.162Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:34.322Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:34.323Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:34.324Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:34.500Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:34.501Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:34.502Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:34.689Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:34.690Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:34.690Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:34.862Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:34.862Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:34.863Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:35.015Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:35.016Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:35.016Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:35.197Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:35.198Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:35.198Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:35.369Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:35.370Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:35.370Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:35.544Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:35.546Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:35.545Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:35.709Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:35.710Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:35.712Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:35.873Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:35.874Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:35.874Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:36.053Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:36.053Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:36.054Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:36.232Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:36.233Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:36.234Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:36.418Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:36.419Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:36.420Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:36.590Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:36.590Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:36.590Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:36.788Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:36.790Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:36.789Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:36.973Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:36.974Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:36.975Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:37.158Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:37.159Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:37.160Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:37.325Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:37.326Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:37.328Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:37.504Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:37.504Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:37.505Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:37.672Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:37.672Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:37.871Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:37.872Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:37.872Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:38.052Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:38.052Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:38.053Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:38.241Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:38.241Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:38.242Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:38.407Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:38.407Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:38.408Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:38.596Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:38.597Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:38.598Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:38.786Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:38.787Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:38.788Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:38.931Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:38.932Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:39.122Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:39.123Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:39.123Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:39.303Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:39.303Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:39.304Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:39.482Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:39.483Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:39.671Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:39.671Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:39.672Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:39.842Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:39.843Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:39.843Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:40.035Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:40.036Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:40.037Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:40.209Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:40.210Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:40.211Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:40.396Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:40.397Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:40.394Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:40.566Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:40.567Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:40.567Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:40.757Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:40.758Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:40.759Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:40.907Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:40.908Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:41.104Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:41.105Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:41.105Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:41.256Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:41.257Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:41.425Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:41.426Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:41.427Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:41.615Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:41.616Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:41.617Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:41.796Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:41.797Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:41.971Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:41.972Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:41.973Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:42.154Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:42.155Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:42.156Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:42.339Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:42.340Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:42.341Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:42.520Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:42.521Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:42.522Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:42.678Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:42.679Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:42.680Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:42.879Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:42.880Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:42.881Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:43.086Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:43.087Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:43.087Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:43.275Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:43.276Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:43.277Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:43.449Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:43.451Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:43.452Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:43.611Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:43.612Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:43.613Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:43.778Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:16:43.779Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:43.945Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:43.946Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:43.946Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:44.126Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:44.126Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:44.125Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:44.326Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:44.327Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:44.329Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:44.503Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:44.504Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:44.505Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:44.668Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:44.668Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:44.669Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:44.875Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:44.877Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:44.878Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:45.058Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:45.059Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:45.060Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:45.237Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:45.238Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:45.239Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:45.422Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:45.423Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:45.424Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:45.608Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:45.609Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:45.610Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:45.776Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:45.776Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:45.777Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:45.971Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:45.972Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:45.972Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:46.156Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:46.157Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:46.158Z 192.168.125.126:54866 calculator 
+División por cero o resultado no numérico 2024-10-14T15:16:46.330Z 192.168.125.126:54866 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:16:46.331Z 192.168.125.126:54866 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:16:46.331Z 192.168.125.126:54866 calculator 
+{"message":"acenó y ñandu"} 2024-10-14T15:17:42.693Z 192.168.125.218:61481 client-test 
+División por cero o resultado no numérico 2024-10-14T15:17:45.183Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:17:45.341Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:17:45.519Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:17:45.703Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:17:45.865Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:46.044Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:46.182Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:46.345Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:46.522Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:46.694Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:46.876Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:47.051Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:17:47.220Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:47.373Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:17:47.374Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:47.545Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:47.699Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:17:47.700Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:47.863Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:48.028Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:48.211Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:48.395Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:48.557Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:48.737Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:48.887Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:49.065Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:49.291Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:49.523Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:49.698Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:49.879Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:50.073Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:50.245Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:50.424Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:17:50.653Z 192.168.125.126:55365 calculator 
+{"message":"acenó y ñandu"} 2024-10-14T15:17:55.380Z 192.168.125.218:58673 client-test 
+{"message":"acen y andu"} 2024-10-14T15:18:13.025Z 192.168.125.218:58683 client-test 
+División por cero o resultado no numérico 2024-10-14T15:20:00.605Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:20:00.817Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:20:00.967Z 192.168.125.126:55365 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:20:00.968Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:20:01.129Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:20:01.277Z 192.168.125.126:55365 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:20:01.279Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:20:01.458Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:20:01.558Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:20:01.559Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:20:01.732Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:20:01.898Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:20:02.051Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:20:02.172Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:20:02.395Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:20:07.408Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:20:07.553Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:20:07.660Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:20:07.877Z 192.168.125.126:55365 calculator 
+División por cero o resultado no numérico 2024-10-14T15:20:09.993Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:20:10.163Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:20:10.286Z 192.168.125.126:55365 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:20:10.286Z 192.168.125.126:55365 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:20:10.502Z 192.168.125.126:55365 calculator 
+{"message":"acen y andu"} 2024-10-14T15:20:17.003Z 192.168.125.218:58750 client-test 
+{"message":"acen y andu"} 2024-10-14T15:22:23.818Z 192.168.125.218:58816 client-test 
+{"message":"acen y andu"} 2024-10-14T15:25:10.689Z 192.168.125.218:58891 client-test 
+{"message":"acen y andu"} 2024-10-14T15:25:33.907Z 192.168.125.218:58902 client-test 
+{"message":"acen y andu"} 2024-10-14T15:26:26.391Z 192.168.125.218:58928 client-test 
+{"message":"acen y andu"} 2024-10-14T15:27:20.157Z 192.168.125.218:58958 client-test 
+{"message":"acen y andu"} 2024-10-14T15:28:18.167Z 192.168.125.218:58984 client-test 
+{"message":"acen y andu"} 2024-10-14T15:28:48.229Z 192.168.125.218:58999 client-test 
+{"message":"acen y andu"} 2024-10-14T15:29:40.252Z 192.168.125.218:59023 client-test 
+{"message":"acen y andu"} 2024-10-14T15:29:55.086Z 192.168.125.218:59033 client-test 
+División por cero o resultado no numérico 2024-10-14T15:30:05.808Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:05.955Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:06.122Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:06.281Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:06.428Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:06.429Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:06.586Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:06.763Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:06.764Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:06.898Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:07.226Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:07.228Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:07.231Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:07.335Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:07.479Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:07.480Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:07.617Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:07.618Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:07.929Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:08.013Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:08.014Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:08.160Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:08.350Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:08.505Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:08.630Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:08.759Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:08.934Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:09.095Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:09.096Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:09.226Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:09.364Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:09.557Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:09.691Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:09.691Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:09.863Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:10.024Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:10.024Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:10.248Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:10.581Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:10.791Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:11.000Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:12.209Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:12.343Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:12.591Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:12.693Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:12.814Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:13.052Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:13.163Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:13.263Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:13.392Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:13.501Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:13.503Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:13.610Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:13.731Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:13.874Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:13.981Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:13.981Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:14.099Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:14.100Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:14.214Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:14.345Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:14.347Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:14.458Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:14.562Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:14.562Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:14.696Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:14.841Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:14.951Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:14.952Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:15.079Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:15.218Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:15.326Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:15.328Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:15.465Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:15.466Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:15.729Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:15.730Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:15.864Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:15.989Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:15.990Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:16.135Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:16.259Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:16.370Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:16.505Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:16.638Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:16.758Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:16.759Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:16.914Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:17.026Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:17.028Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:17.165Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:17.294Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:17.419Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:17.540Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:17.540Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:17.690Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:17.789Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:17.791Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:17.936Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:18.058Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:18.200Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:19.421Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:18.299Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:18.300Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:19.568Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:18.431Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:18.432Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:18.571Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:18.573Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:19.756Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:18.713Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:18.714Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:19.924Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:18.835Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:18.838Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:20.119Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:18.967Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:18.970Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:19.099Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:19.101Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:20.294Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:19.259Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:20.474Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:19.378Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:19.379Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:20.641Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:19.510Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:19.511Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:19.511Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:19.645Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:20.822Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:19.802Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:21.002Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:19.939Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:19.940Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:21.176Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:20.066Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:20.068Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:21.357Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:20.203Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:20.349Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:20.351Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:21.533Z 192.168.125.126:56013 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:20.484Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:21.728Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:20.625Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:20.626Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:21.905Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:20.780Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:20.908Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:22.093Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:21.069Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:22.274Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:21.209Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:21.211Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:22.456Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:21.426Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:21.428Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:22.651Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:21.631Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:21.632Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:21.633Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:22.818Z 192.168.125.126:56013 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:21.768Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:30:21.770Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:22.991Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:21.903Z 192.168.125.126:56002 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:30:21.903Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:23.179Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:22.044Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:22.044Z 192.168.125.126:56002 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:22.193Z 192.168.125.126:56002 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:23.353Z 192.168.125.126:56013 calculator 
+Calculation successful: 18.666666666666668 2024-10-14T15:30:23.526Z 192.168.125.126:56013 calculator 
+División por cero o resultado no numérico 2024-10-14T15:30:22.416Z 192.168.125.126:56002 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:30:22.417Z 192.168.125.126:56002 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:30:32.104Z 192.168.125.126:63360 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:30:32.246Z 192.168.125.126:63360 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:30:32.379Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:34.731Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:34.899Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:35.040Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:35.199Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:35.333Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:35.468Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:35.620Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:35.776Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:35.929Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:36.062Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:36.232Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:36.368Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:36.505Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:36.653Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:36.799Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:36.940Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:37.087Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:37.221Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:37.374Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:37.515Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:37.661Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:37.799Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:37.944Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:38.074Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:38.224Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:38.375Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:38.503Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:38.650Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:38.781Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:38.907Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:39.067Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:39.180Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:39.330Z 192.168.125.126:63360 calculator 
+Calculation successful: 0 2024-10-14T15:30:39.546Z 192.168.125.126:63360 calculator 
+{"message":"acen y andu"} 2024-10-14T15:30:41.766Z 192.168.125.218:52521 client-test 
+{"message":"acen y andu"} 2024-10-14T15:30:46.348Z 192.168.125.218:53249 client-test 
+{"message":"acenoó y ´ñandu"} 2024-10-14T15:31:08.518Z 192.168.125.218:53139 client-test 
+{"message":"acenoó y ´ñandu"} 2024-10-14T15:31:13.523Z 192.168.125.218:54830 client-test 
+División por cero o resultado no numérico 2024-10-14T15:31:20.625Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:20.625Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:20.626Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:20.798Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:20.799Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:20.934Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:20.934Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:21.091Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:21.092Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:21.269Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:21.270Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:21.413Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:21.414Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:21.414Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:21.582Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:21.583Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:21.584Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:21.704Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:21.705Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:21.706Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:22.085Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:22.085Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:22.086Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:22.321Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:22.322Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:22.323Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:22.465Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:22.465Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:22.466Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:22.647Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:22.648Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:22.778Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:22.779Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:22.951Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:22.952Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:22.953Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:23.100Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:23.101Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:23.102Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:23.255Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:23.256Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:23.256Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:23.400Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:23.401Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:23.402Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:23.538Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:23.539Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:23.540Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:23.668Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:23.669Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:23.669Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:23.860Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:23.861Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:23.862Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:24.090Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:24.091Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:24.092Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:24.261Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:24.262Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:24.263Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:24.404Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:24.405Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:24.406Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:24.589Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:24.590Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:24.591Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:24.743Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:24.743Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:24.907Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:24.908Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:24.909Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:25.095Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:25.096Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:25.096Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:25.228Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:25.229Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:25.229Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:25.403Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:25.405Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:25.404Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:25.582Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:25.583Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:25.584Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:25.762Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:25.763Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:25.764Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:25.906Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:25.907Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:25.908Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:26.060Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:26.061Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:26.062Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:26.188Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:26.189Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:26.190Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:26.349Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:26.350Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:26.351Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:26.497Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:26.498Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:26.499Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:26.633Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:26.634Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:26.635Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:26.803Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:26.804Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:26.805Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:26.888Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:26.890Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:27.051Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:27.052Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:27.053Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:27.296Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:27.296Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:27.297Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:27.458Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:27.459Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:27.459Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:27.628Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:27.629Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:27.629Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:27.725Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:27.726Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:27.904Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:27.903Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:27.906Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:27.996Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:27.997Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:28.143Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:28.144Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:28.146Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:28.249Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:28.249Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:28.250Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:28.435Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:28.436Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:28.437Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:28.552Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:28.553Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:28.676Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:28.676Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:28.677Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:28.827Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:28.827Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:28.829Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:28.940Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:28.940Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:28.941Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:29.207Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:29.208Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:29.209Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:29.481Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:29.481Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:29.482Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:29.582Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:29.583Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:29.584Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:29.719Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:29.719Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:29.720Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:29.814Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:29.814Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:29.981Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:29.981Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:29.982Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:30.120Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:30.119Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:30.231Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:30.232Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:30.233Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:30.380Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:30.381Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:30.382Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:30.640Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:30.641Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:30.642Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:30.752Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:30.753Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:30.755Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:31.032Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:31.032Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:31.033Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:31.183Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:31.183Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:31.183Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:31.355Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:31.356Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:31.357Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:31.520Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:31.521Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:31.522Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:31.686Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: SyntaxError: Unexpected identifier 'invalida' 2024-10-14T15:31:31.688Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:31.842Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:31.843Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:31.844Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:32.004Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:32.005Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:32.006Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:32.167Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:32.167Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:32.168Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:32.347Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:32.347Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:32.348Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:32.518Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:32.518Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:32.519Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:32.670Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:32.671Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:32.672Z 192.168.125.126:59625 calculator 
+División por cero o resultado no numérico 2024-10-14T15:31:32.885Z 192.168.125.126:59625 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:31:32.885Z 192.168.125.126:59625 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:31:32.886Z 192.168.125.126:59625 calculator 
+{"message":"acenoó y ´ñandu"} 2024-10-14T15:31:34.357Z 192.168.125.218:61628 client-test 
+Calculation successful: 0 2024-10-14T15:31:35.736Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:35.900Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:36.069Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:36.237Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:36.421Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:36.575Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:36.750Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:36.907Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:37.063Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:37.234Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:37.401Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:37.570Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:37.747Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:37.936Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:38.105Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:38.285Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:38.445Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:38.614Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:38.791Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:38.935Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:39.113Z 192.168.125.126:59625 calculator 
+Calculation successful: 0 2024-10-14T15:31:39.324Z 192.168.125.126:59625 calculator 
+{"message":"acenoó y ´ñandu"} 2024-10-14T15:44:01.946Z 192.168.125.218:53091 client-test 
+Calculation successful: 576 2024-10-14T15:44:08.308Z 192.168.125.126:56230 calculator 
+Calculation successful: 585 2024-10-14T15:44:13.100Z 192.168.125.126:56230 calculator 
+Calculation successful: 3510 2024-10-14T15:44:15.105Z 192.168.125.126:56230 calculator 
+Calculation successful: 3510 2024-10-14T15:44:15.277Z 192.168.125.126:56230 calculator 
+Calculation successful: 3510 2024-10-14T15:44:15.463Z 192.168.125.126:56230 calculator 
+Calculation successful: 3510 2024-10-14T15:44:15.625Z 192.168.125.126:56230 calculator 
+Calculation successful: 3510 2024-10-14T15:44:15.797Z 192.168.125.126:56230 calculator 
+Calculation successful: 3510 2024-10-14T15:44:15.954Z 192.168.125.126:56230 calculator 
+Calculation successful: 3510 2024-10-14T15:44:16.109Z 192.168.125.126:56230 calculator 
+Calculation successful: 3510 2024-10-14T15:44:16.261Z 192.168.125.126:56230 calculator 
+Calculation successful: 3510 2024-10-14T15:44:16.424Z 192.168.125.126:56230 calculator 
+Calculation successful: 3510 2024-10-14T15:44:16.576Z 192.168.125.126:56230 calculator 
+Calculation successful: 3510 2024-10-14T15:44:16.697Z 192.168.125.126:56230 calculator 
+{"message":"acenoó y ´ñandu"} 2024-10-14T15:44:20.197Z 192.168.125.218:64802 client-test 
+División por cero o resultado no numérico 2024-10-14T15:44:24.047Z 192.168.125.126:56230 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:44:24.047Z 192.168.125.126:56230 calculator 
+División por cero o resultado no numérico 2024-10-14T15:44:28.944Z 192.168.125.126:53137 calculator 
+No se pudo llevar a cabo la operación expresada, error: ReferenceError: error is not defined 2024-10-14T15:44:28.945Z 192.168.125.126:53137 calculator 
+Invalid operation: Error, operación invalida, error: ReferenceError: error is not defined 2024-10-14T15:44:28.945Z 192.168.125.126:53137 calculator 
+{"message":"acenoó y ´ñandu"} 2024-10-14T15:45:05.215Z 192.168.125.218:56323 client-test 
+{"message":"acenoó y ´ñandu"} 2024-10-14T15:45:18.083Z 192.168.125.218:51477 client-test 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:45:29.417Z 192.168.125.126:53137 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:45:29.551Z 192.168.125.126:53137 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:45:29.701Z 192.168.125.126:53137 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:45:29.870Z 192.168.125.126:53137 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:45:30.046Z 192.168.125.126:53137 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:45:30.333Z 192.168.125.126:53137 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:45:30.543Z 192.168.125.126:53137 calculator 
+se estan colocando dos puntos u operadores aritmeticos seguidos 2024-10-14T15:45:30.716Z 192.168.125.126:53137 calculator 
+Calculation successful: 3 2024-10-14T15:47:25.738Z 192.168.125.126:56230 calculator 
+Calculation successful: 9 2024-10-14T15:47:27.879Z 192.168.125.126:56230 calculator 
+División por cero o resultado no numérico 2024-10-14T15:47:29.430Z 192.168.125.126:56230 calculator 
+Calculation successful: 288 2024-10-14T15:47:35.368Z 192.168.125.126:56230 calculator 
+{"message":"acenoó y ´ñandu"} 2024-10-14T15:47:45.406Z 192.168.125.218:59941 client-test 
+{"message":"acenoó y ´ñandu"} 2024-10-14T15:47:51.993Z 192.168.125.218:60242 client-test 

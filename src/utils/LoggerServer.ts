@@ -1,24 +1,30 @@
 import net, { Socket } from "node:net";
 import { IPgHandler } from "../data/instances";
 import fs from "node:fs";
+import dgram from "node:dgram";
 import pc from "picocolors";
 
 export default class LoggerServer {
   host!: string;
-  port!: number;
+  portTCP!: number;
+  portUDP!: number;
   pathFile!: string;
   clients: Set<Socket> = new Set();
+  udpClients: Set<string> = new Set();
+  udpServer!: dgram.Socket;
 
-  constructor({ host, port, pathFile }: ConstructorProps) {
+  constructor({ host, portTCP, portUDP, pathFile }: ConstructorProps) {
     this.host = host;
-    this.port = port;
+    this.portTCP = portTCP;
+    this.portUDP = portUDP;
     this.pathFile = pathFile;
+    this.udpServer = dgram.createSocket("udp4");
   }
 
   listen() {
     this.sayListen();
 
-    return net
+    net
       .createServer((socket: Socket) => {
         const IP_CONNECTED = `${socket.remoteAddress}:${socket.remotePort}`;
         this.clients.add(socket);
@@ -26,7 +32,7 @@ export default class LoggerServer {
         this.socketConnect(IP_CONNECTED);
 
         socket.on(EVENTS.DATA, (data: any) => {
-          this.dataManager({ data, IP_CONNECTED });
+          this.dataManager({ data, IP_CONNECTED, protocol: "tcp" });
         });
 
         socket.on(EVENTS.CLOSE, (_data: any) => {
@@ -36,18 +42,39 @@ export default class LoggerServer {
 
         socket.on(EVENTS.ERROR, this.errorManager);
       })
-      .listen(this.port, this.host);
+      .listen(this.portTCP, this.host);
+
+    this.udpServer.on("listening", () => this.sayListen());
+    this.udpServer.on("message", (msg, rinfo) => {
+      const IP_CONNECTED = `${rinfo.address}:${rinfo.port}`;
+      this.udpClients.add(IP_CONNECTED);
+      console.log(`Datos recibidos por UDP: ${msg}`);
+      this.dataManager({ data: msg.toString(), IP_CONNECTED, protocol: "udp" });
+    });
+    this.udpServer.on("error", this.errorManager);
+
+    this.udpServer.bind(this.portUDP, this.host);
   }
 
-  private broadcast(_event: string, data: any) {
+  private broadcast(protocol: string, data: any) {
+    const parsedData = JSON.stringify({ ...JSON.parse(data), protocol });
+    console.log(parsedData);
     for (const client of this.clients) {
-      client.write(data);
+      client.write(parsedData);
+    }
+    for (const client of this.udpClients) {
+      const [address, port] = client.split(":");
+      this.udpServer.send(parsedData, parseInt(port), address);
     }
   }
 
   private sayListen = () => {
     console.log(
-      pc.bgBlack(pc.white(`Esperando respuestas en ${this.host}:${this.port}`))
+      pc.bgBlack(
+        pc.white(
+          `Esperando respuestas en ${this.host}:${this.portTCP} y ${this.portUDP}`
+        )
+      )
     );
   };
 
@@ -57,15 +84,15 @@ export default class LoggerServer {
   private dataManager = ({
     data,
     IP_CONNECTED,
+    protocol,
   }: {
     data: string;
     IP_CONNECTED: string;
+    protocol: string;
   }) => {
     // Aquí primero debo obtener la información que viene ^
     console.log(`Esta es tu data: ${data}`);
     const parsedData = data.toString().split("^");
-
-    console.log(parsedData);
 
     // Luego de eso, debo identificar las partes del array, que deben ser 4
     const objData = {
@@ -75,24 +102,31 @@ export default class LoggerServer {
       fin: parsedData[3],
     };
 
-    const dataStringParsed = JSON.parse(objData.data) as DataProps;
+    console.table({ ...objData, protocol });
 
-    const { date, module, log, typeLog } = dataStringParsed;
+    try {
+      
+      const dataStringParsed = JSON.parse(objData.data) as DataProps;
 
-    const objSave = {
-      typeLog,
-      data: log,
-      date,
-      module,
-      host: IP_CONNECTED,
-    };
+      const { date, module, log, typeLog } = dataStringParsed;
 
-    this.saveInDB(objSave);
-    this.broadcast(EVENTS.REALTIME, JSON.stringify(objSave));
+      const objSave = {
+        typeLog,
+        data: log,
+        date,
+        module,
+        host: IP_CONNECTED,
+      };
 
-    if (objData.command === "sv") {
-      const onlySring = `${log} ${date} ${IP_CONNECTED} ${module} `;
-      this.addToTxt(onlySring);
+      this.saveInDB(objSave);
+      this.broadcast(protocol, JSON.stringify(objSave));
+
+      if (objData.command === "sv") {
+        const onlyString = `${log} ${date} ${IP_CONNECTED} ${module} `;
+        this.addToTxt(onlyString);
+      }
+    } catch (error) {
+      console.error("Error parsing data:", error);
     }
   };
 
@@ -133,7 +167,8 @@ export default class LoggerServer {
 
 interface ConstructorProps {
   host: string;
-  port: number;
+  portTCP: number;
+  portUDP: number;
   pathFile: string;
 }
 

@@ -20,7 +20,8 @@ export const Hosts: Record<string, HostConfig> = {
 
 export const CONFIG_LOGS = {
   HOST: process.env.HOST_SERVER || "",
-  PORT: Number(process.env.PORT_SERVER) || 0,
+  UDP_PORT: Number(process.env.UDP_PORT) || 0,
+  TCP_PORT:  Number(process.env.TCP_PORT) || 0,
   PATH: process.env.PATH_TXT || ""
 };
 
